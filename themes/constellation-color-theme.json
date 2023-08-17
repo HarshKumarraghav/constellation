@@ -345,8 +345,8 @@
     "debugToolBar.border": "#283045",
 
     // Welcome Page
-    "welcomePage.buttonBackground": "#283045",
-    "welcomePage.buttonHoverBackground": "#28304599",
+    "welcomePage.tileBackground": "#283045",
+    "welcomePage.tileHoverBackground": "#28304599",
     "walkThrough.embeddedEditorBackground": "#0f1320",
 
     // Git colors
